@@ -84,16 +84,14 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 ---
 
 **Happy coding!**
-```
 
-Étapes pour l'ajouter à ton projet :
+ Étapes pour l'ajouter à ton projet :
 1. Crée un fichier `README.md` dans le dossier racine de ton projet.
 2. Copie-colle le contenu ci-dessus dans ce fichier.
 3. Fais un commit et pousse-le vers ton dépôt GitHub :
-   ```b
+   ```bash
    git add README.md
    git commit -m "Ajout du fichier README"
    git push origin master
-   ```b
-```b
+
 
