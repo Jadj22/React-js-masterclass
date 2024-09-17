@@ -90,7 +90,7 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 1. Crée un fichier `README.md` dans le dossier racine de ton projet.
 2. Copie-colle le contenu ci-dessus dans ce fichier.
 3. Fais un commit et pousse-le vers ton dépôt GitHub :
-   ```
+   
    git add README.md
    git commit -m "Ajout du fichier README"
    git push origin master
