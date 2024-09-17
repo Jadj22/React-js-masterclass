@@ -1,7 +1,8 @@
 ```markdown
 # React-js-masterclass
 
-Ce dépôt contient des projets et exercices issus de mon apprentissage sur React.js. L'objectif est de créer des applications web interactives et modernes tout en maîtrisant les concepts fondamentaux de React, notamment les composants, les hooks, la gestion d'état, et bien plus.
+Ce dépôt regroupe des projets et exercices réalisés dans le cadre de mon apprentissage de React.js. Son objectif est de me permettre de développer des applications web interactives et modernes tout en approfondissant les concepts clés de React, tels que les composants, les hooks, la gestion d'état, et bien plus encore.
+
 
 ## Fonctionnalités principales
 - Projets pratiques et exemples concrets
