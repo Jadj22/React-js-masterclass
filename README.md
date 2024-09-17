@@ -23,22 +23,22 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 Suivez ces étapes pour cloner et exécuter le projet localement :
 
 1. Clonez le dépôt :
-   ```bash
+
    git clone https://github.com/ton_nom_dutilisateur/React-js-masterclass.git
    ```
 
 2. Accédez au répertoire du projet :
-   ```bash
+   ```
    cd React-js-masterclass
    ```
 
 3. Installez les dépendances :
-   ```bash
+   ```
    npm install
    ```
 
 4. Lancez l'application en mode développement :
-   ```bash
+   ```
    npm start
    ```
 
@@ -48,7 +48,7 @@ L'application devrait s'ouvrir automatiquement dans votre navigateur à l'adress
 
 Voici un aperçu de la structure du projet :
 
-```bash
+```
 React-js-masterclass/
 ├── React-Basics/       # Projets de base en React
 ├── React-Create/       # Créations avancées en React
@@ -68,15 +68,15 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
 
 1. Fork le projet
 2. Créez une branche pour vos modifications :
-   ```bash
+   ```
    git checkout -b feature/ma-nouvelle-fonctionnalite
    ```
 3. Effectuez vos modifications et faites un commit :
-   ```bash
+   ```
    git commit -m "Ajout d'une nouvelle fonctionnalité"
    ```
 4. Poussez vos modifications sur GitHub :
-   ```bash
+   ```
    git push origin feature/ma-nouvelle-fonctionnalite
    ```
 5. Créez une **pull request** pour que vos modifications soient examinées.
@@ -100,4 +100,3 @@ Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour pl
    git push origin master
    ```
 
-Cela créera un fichier README complet pour ton projet **React-js-masterclass** sur GitHub.
