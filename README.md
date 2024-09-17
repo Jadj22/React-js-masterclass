@@ -24,7 +24,7 @@ Suivez ces étapes pour cloner et exécuter le projet localement :
 
 1. Clonez le dépôt :
 
-   git clone https://github.com/ton_nom_dutilisateur/React-js-masterclass.git
+   git clone https://github.com/Jadj22/React-js-masterclass.git
    ```
 
 2. Accédez au répertoire du projet :
@@ -80,10 +80,6 @@ Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce proje
    git push origin feature/ma-nouvelle-fonctionnalite
    ```
 5. Créez une **pull request** pour que vos modifications soient examinées.
-
-## Licence
-
-Ce projet est sous licence MIT - consultez le fichier [LICENSE](LICENSE) pour plus d'informations.
 
 ---
 
