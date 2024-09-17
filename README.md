@@ -1,98 +1,70 @@
-```markdown
- # React-js-masterclass
+# Getting Started with Create React App
 
-Ce dépôt regroupe des projets et exercices réalisés dans le cadre de mon apprentissage de React.js. Son objectif est de me permettre de développer des applications web interactives et modernes tout en approfondissant les concepts clés de React, tels que les composants, les hooks, la gestion d'état, et bien plus encore.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-## Fonctionnalités principales
-- Projets pratiques et exemples concrets
-- Bonnes pratiques pour construire des applications React évolutives
-- Exploration approfondie des hooks et de la gestion d'état en React
-- Implémentation de designs responsifs avec React
-- Intégration d'API et de bibliothèques tierces
+In the project directory, you can run:
 
- Prérequis
+### `npm start`
 
-Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-- [Node.js](https://nodejs.org/)
-- [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
-- [Git](https://git-scm.com/)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Installation
+### `npm test`
 
-Suivez ces étapes pour cloner et exécuter le projet localement :
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-1. Clonez le dépôt :
+### `npm run build`
 
-   git clone https://github.com/Jadj22/React-js-masterclass.git
-   ```
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-2. Accédez au répertoire du projet :
-   ```
-   cd React-js-masterclass
-   ```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-3. Installez les dépendances :
-   ```
-   npm install
-   ```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-4. Lancez l'application en mode développement :
-   ```
-   npm start
-   ```
+### `npm run eject`
 
-L'application devrait s'ouvrir automatiquement dans votre navigateur à l'adresse [http://localhost:3000](http://localhost:3000).
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## Structure du projet
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Voici un aperçu de la structure du projet :
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-```
-React-js-masterclass/
-├── React-Basics/       # Projets de base en React
-├── React-Create/       # Créations avancées en React
-├── React-expo/         # Projets utilisant Expo pour le développement mobile
-├── React-for-fake-api/ # Projets utilisant des APIs fictives
-├── React-for-practices/ # Exercices et pratiques de React
-├── React-for-Projets-ss/ # Projets spécifiques
-├── React-for-test/     # Projets et tests en React
-├── React-Projet/       # Projet principal en React
-├── TestApi/            # Tests d'API avec React
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-```
+## Learn More
 
-## Contribution
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Les contributions sont les bienvenues ! Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-1. Fork le projet
-2. Créez une branche pour vos modifications :
-   ```
-   git checkout -b feature/ma-nouvelle-fonctionnalite
-   ```
-3. Effectuez vos modifications et faites un commit :
-   ```
-   git commit -m "Ajout d'une nouvelle fonctionnalité"
-   ```
-4. Poussez vos modifications sur GitHub :
-   ```
-   git push origin feature/ma-nouvelle-fonctionnalite
-   ```
-5. Créez une **pull request** pour que vos modifications soient examinées.
+### Code Splitting
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-**Happy coding!**
+### Analyzing the Bundle Size
 
- Étapes pour l'ajouter à ton projet :
-1. Crée un fichier `README.md` dans le dossier racine de ton projet.
-2. Copie-colle le contenu ci-dessus dans ce fichier.
-3. Fais un commit et pousse-le vers ton dépôt GitHub :
-   ```bash
-   git add README.md
-   git commit -m "Ajout du fichier README"
-   git push origin master
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
