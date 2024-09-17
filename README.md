@@ -1,10 +1,10 @@
 ```markdown
- React-js-masterclass
+ # React-js-masterclass
 
 Ce dépôt regroupe des projets et exercices réalisés dans le cadre de mon apprentissage de React.js. Son objectif est de me permettre de développer des applications web interactives et modernes tout en approfondissant les concepts clés de React, tels que les composants, les hooks, la gestion d'état, et bien plus encore.
 
 
- Fonctionnalités principales
+## Fonctionnalités principales
 - Projets pratiques et exemples concrets
 - Bonnes pratiques pour construire des applications React évolutives
 - Exploration approfondie des hooks et de la gestion d'état en React
@@ -19,7 +19,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
 - [Git](https://git-scm.com/)
 
- Installation
+### Installation
 
 Suivez ces étapes pour cloner et exécuter le projet localement :
 
