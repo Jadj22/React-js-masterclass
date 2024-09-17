@@ -50,15 +50,16 @@ Voici un aperçu de la structure du projet :
 
 ```bash
 React-js-masterclass/
-├── public/
-├── src/
-│   ├── components/    # Composants réutilisables
-│   ├── hooks/         # Hooks personnalisés
-│   ├── pages/         # Pages de l'application
-│   ├── services/      # Appels API et services externes
-│   └── App.js         # Point d'entrée principal
-├── package.json       # Dépendances et scripts du projet
-└── README.md          # Documentation du projet
+├── React-Basics/       # Projets de base en React
+├── React-Create/       # Créations avancées en React
+├── React-expo/         # Projets utilisant Expo pour le développement mobile
+├── React-for-fake-api/ # Projets utilisant des APIs fictives
+├── React-for-practices/ # Exercices et pratiques de React
+├── React-for-Projets-ss/ # Projets spécifiques
+├── React-for-test/     # Projets et tests en React
+├── React-Projet/       # Projet principal en React
+├── TestApi/            # Tests d'API avec React
+
 ```
 
 ## Contribution
